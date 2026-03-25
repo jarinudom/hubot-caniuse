@@ -2,7 +2,7 @@
   "name": "hubot-caniuse",
   "version": "1.0.1",
   "description": "A caniuse hubot script",
-  "main": "hubot-caniuse.js",
+  "main": "hubot-caniuse.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
